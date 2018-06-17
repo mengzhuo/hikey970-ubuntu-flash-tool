@@ -1,0 +1,1 @@
+# hikey970-ubuntu-flash-tool
